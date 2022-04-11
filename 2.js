@@ -1,0 +1,2 @@
+declare variable
+var myName;
